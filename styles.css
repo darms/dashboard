@@ -10,3 +10,9 @@ h1, h2{
     display: grid;
     border-style: 1px solid black;
 }
+
+.image{
+    height: 100px;
+    width: 100px;
+    background-color: gray;
+}
