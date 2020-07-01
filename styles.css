@@ -16,3 +16,7 @@ h1, h2{
     width: 100px;
     background-color: gray;
 }
+
+hover:.image{
+    background-color: pink;
+}
